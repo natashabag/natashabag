@@ -6,7 +6,7 @@ I am proficient in designing and executing comprehensive test cases, and skilled
 
 🔭 I’m currently working on improving my skills in test automation. I am focusing on Selenium Webdriver with Python. Additionally, I have experience with WebdriverIO and Playwright with JavaScript. 
 
-🕵🏻‍♀️ I’m looking to collaborate on test automation projects.
+🕵🏻‍♀️ I’m looking to collaborate on test automation projects. Let me know if you are interested 😊
 
 📫 You can reach me at natalia.bagramian@gmail.com 
 
