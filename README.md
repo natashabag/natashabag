@@ -2,9 +2,9 @@
 
 👩🏻‍💻I am a QA Engineer with banking and teaching background. In every role I have performed, I have felt a burning desire to improve the systems and processes I used. I noticed even the smallest flaws and friction points, which escaped the notice of most people. During my career exploration, I learned about QA. I realized I was made for this! 
 
-I am proficient in designing and executing comprehensive test cases, and skilled at identifying and documenting software defects using a wide range of tools and techniques. I conduct various types of testing including but not limited to manual, API, UI, regression, cross-browser, exploratory and mobile testing. 
+I am proficient in designing and executing comprehensive test cases, and skilled at identifying and documenting software defects using a wide range of tools and techniques. I conduct various types of testing including but not limited to manual, API, regression, cross-browser, exploratory and mobile testing. 
 
-🔭 I’m currently working on improving my skills in test automation. I am focusing on Selenium Webdriver with Python. Additionally, I have experience with WebdriverIO and Playwright with JavaScript. 
+🔭 I’m currently working on improving my skills in test automation. I am focusing on Selenium Webdriver with Python and Playwright with TypeScript. Additionally, I have experience with WebdriverIO.
 
 🕵🏻‍♀️ I’m looking to collaborate on test automation projects. Let me know if you are interested 😊
 
